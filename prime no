@@ -1,0 +1,5 @@
+b = int(input('Enter the no is prime or not:'))
+if(b%2==0):
+    print('prime no')
+else:
+    print('not prime no')
