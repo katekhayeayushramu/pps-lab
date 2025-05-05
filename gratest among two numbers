@@ -1,0 +1,6 @@
+a = int(input('enetr the value  of a'))
+b = int(input('enter the value of b'))
+if(a>b):
+    print('a is gratest')
+else:
+    print('b is greatest')
