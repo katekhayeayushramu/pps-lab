@@ -1,0 +1,4 @@
+name = 'ayush'
+name
+print(id(name))
+print(type(name))
